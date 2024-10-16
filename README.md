@@ -1,2 +1,2 @@
-# practice-playgroung
-Practice coding &amp; grinds.
+# practice-sql
+Leetcode SQL problems and general notes.
